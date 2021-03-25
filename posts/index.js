@@ -37,6 +37,6 @@ app.post("/posts/create", async (req, res) => {
 
 const port = 4000;
 app.listen(port, () => {
-  console.log("v30");
+  console.log("v100");
   console.log(`Listening on ${port}`);
 });
